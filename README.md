@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hello!
+
+My name is Amanda and I used to be a mermaid.
+I love sushi and marshmellows.
+
